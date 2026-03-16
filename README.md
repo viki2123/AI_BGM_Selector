@@ -2,7 +2,7 @@
 2. Activate the venv
 3. pip install -r req.txt
 4. Go to the root folder Run "streamlit run app.py"
-5. Deploy the website in streamlit.cloud:- 
+5. Deploy the website in share.streamlit.io:- 
      Take a look at the website here:- https://aibgmselector.streamlit.app/
      <img width="1916" height="1078" alt="image" src="https://github.com/user-attachments/assets/b8c36e40-7086-4753-a789-86ab82088724" />
 6. Added the script - LLM is analayzing the script:-
